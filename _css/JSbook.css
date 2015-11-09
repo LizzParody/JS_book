@@ -1,0 +1,77 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
+    margin-top:0px;
+    padding:0;
+
+}
+html,body {
+    margin-top:0;
+    padding:0;
+    margin-bottom: 0px;
+}
+
+#content{
+  color: rgb(44,62,80);
+  padding-left: 200px;
+}
+
+#content-title{
+  margin-top: 35px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  font-size: 38px;
+}
+
+#chapter{
+  font-size: 25px;
+  margin-left: 40px;
+  margin-bottom: 0px;
+}
+
+html{
+  background-color: #468966;
+}
+body{
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  background-color: rgb(240,240,240);
+  padding-top: 50px;
+
+
+}
+
+h1 {
+  font-size: 50px;
+  font-family: sans-serif;
+  color: #182033;
+  text-shadow: 2px 2px 2px #fff;
+}
+
+h2 {
+  font-size: 29px;
+  font-family: sans-serif;
+  color: #182033;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #182033;
+}
+
+p {
+  font-size: 19px;
+  margin-left: 80px;
+  margin-bottom: 20px;
+  margin-top: 12px;
+}
+
+a {
+    color: #182033;
+    text-decoration: none;
+}
+
+a:hover{
+  color: #468966
+}
